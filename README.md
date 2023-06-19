@@ -40,8 +40,9 @@ The goal of the game is to survive each season for 3 year / level. At the end of
 
 Here are an example of each season, at the first level:
 
-```text
 ![Spring](https://github.com/jmballard/game_wandering_math_geek/blob/main/visuals/spring_level1.png?raw=true "Spring")
+
+```text
 ![Summer](https://github.com/jmballard/game_wandering_math_geek/blob/main/visuals/summer_level1.png?raw=true "Summer")
 ![Fall](https://github.com/jmballard/game_wandering_math_geek/blob/main/visuals/fall_level1.png?raw=true "Fall")
 ![Winter](https://github.com/jmballard/game_wandering_math_geek/blob/main/visuals/winter_level1.png?raw=true "Winter")
