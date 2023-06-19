@@ -1,0 +1,15 @@
+number_of_rows
+number_of_columns
+row_where_start (start at 0)
+column_where_start (start at 0)
+(if summer: max number of counts we can have. Else, do not write anything in this line)
+m m m m m m m m m m
+m . . . . . . . . m
+m . . . . . . . . m
+m . . . . . . . . m
+m . . . . . . . . m
+m . . . . . . . . m
+m . . . . . . . . m
+m . . . . . . . . m
+m . . . . . . . . m
+m . m m m m m m m m

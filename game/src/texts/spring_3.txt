@@ -1,0 +1,20 @@
+15
+38
+14
+5
+1000
+m m      m m m m m m m m m m     m m m m m m m m m m m m m m      m m m m m m m m m m m m
+m b9,27 . . . . . . f . . m      m m m m . . . . . . . . m m      m . . . . . . . . . m m
+m .      m . m . m m . m . .     . . . . . m m m m m m . m b13,24 . . m m m m m m m . . m
+m .      m . m . . m . m m m     m m m m m m m m m m m m m .      m . m . . . . . m m . m
+m .      m m m m . m . m . m     m . . . m . . . . . . m . .      m . m m . m m . . m . m
+m .      m . . . . m . . . .     m . m . . . . . . . m m m m      m . m m . m m m . m . m
+m .      . . . m m m m m m .     m m m . m . m m m . m m m m      m . m m . m m m f . . m
+m .      m m . m . . . . m .     . . . . m . . . m . . . m .      . . . . . m m m . m m m
+m .      m m . m . m m . m .     m . m . m . m . m . m . . .      m . m m m m m m . . . m
+m .      m m . m . m m . m .     m . m . m m m . m . m m m m      m m m m m m m m . m . m
+m .      m . . f . . m . m b4,23 m . m . . . m . m f . . m .      . . m m m m m m . m . m
+m .      m . m . m . m . m m     m . m m m . m . . . m . m .      m . . . . . . . . m . m
+m .      m . m . m . m . m m     m . m . m m m m m m m . m m      m m . m m m m m . . . m
+m .      . . m . m . . . . .     . . . . . . . . . . . . m .      . . . . . . . m m m m m
+m m      m m m . m m m m m m     m m m m m m m m m m m m m m      m m m m m e m m m m m m

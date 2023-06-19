@@ -1,0 +1,5 @@
+Lagrange:20000
+Cauchy:17500
+Euler:15000
+x:12500
+y:10000

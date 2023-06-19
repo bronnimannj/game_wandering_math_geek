@@ -1,0 +1,19 @@
+14
+14
+13
+2
+1000
+m m m m     m m m m m m     m m m m
+m . . .     . . . . . .     . . . m
+m . . m     . m . . . .     m m . m
+m . . m     m m . . . .     m m . m
+m . m m     m . . m . m     m m . m
+m . m m     . . m m . .     m m . m
+m . m b12,4 . m m m m b12,6 m . . m
+m . m m     m m m m m m     m m . m
+m . . f     . . . . . .     m m m m
+m . m .     m . m m m f     . . . m
+m . m .     m . m m . .     m m . m
+m . m .     m . m m . .     m m . m
+m . . .     m . m . . .     m . . m
+m m . m     m m m m m m     m e m m
